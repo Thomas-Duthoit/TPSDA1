@@ -10,3 +10,6 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?E4C3F1A32082213916B3AB898
 https://prod.liveshare.vsengsaas.visualstudio.com/join?C343C95B267722DF2E33456383937F00B4BE
 ---
 https://prod.liveshare.vsengsaas.visualstudio.com/join?7C304734D14C422F69DFFCAF61C95B0126B8
+---
+https://prod.liveshare.vsengsaas.visualstudio.com/join?02644EC723E3B3F673C43CFC501EAB9B0205
+---
